@@ -2,7 +2,7 @@ package JAst.test_appl;
 
 /**
  * Hello world!
- *
+ * + Comment for GitHub
  */
 public class App 
 {
